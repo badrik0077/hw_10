@@ -1,0 +1,13 @@
+Денис
+Змеев
+zmeysss@gmail.com
++76772110077
+
+
+
+filename = "user_data.txt"
+f = open(filename, "r")
+name = f.readline()
+surname = f.readline()
+email = f.readline()
+phone = f.readline()
